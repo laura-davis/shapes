@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lda49/CLionProjects/shapes/assign85.cpp
+iostream
+-
+triang.h
+/Users/lda49/CLionProjects/shapes/triang.h
+
+/Users/lda49/CLionProjects/shapes/triang.h
+iostream
+-
+iomanip
+-
+
